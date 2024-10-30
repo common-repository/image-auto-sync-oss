@@ -1,0 +1,131 @@
+# image auto sync
+msgid ""
+msgstr ""
+"Project-Id-Version: image-auto-sync-oss 1.0.0\n"
+"POT-Creation-Date: 2022-01-13 11:37+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core.php:64
+msgid "Some important values shouldn't be empty"
+msgstr "必填信息不能为空"
+
+#: core.php:78
+msgid "oss options error: "
+msgstr "oss 配置错误: "
+
+#: image-auto-sync-oss.php:83
+msgid "Setting"
+msgstr "设置"
+
+#: image-auto-sync-oss.php:94
+msgid "OSS Image Sync Options"
+msgstr "OSS 图片同步配置"
+
+#: image-auto-sync-oss.php:95
+msgid "OSS Image Sync"
+msgstr "OSS 图片自动同步"
+
+#: image-auto-sync-oss.php:121
+msgid "Open Image Auto Sync"
+msgstr "打开 OSS 自动同步"
+
+#: image-auto-sync-oss.php:134
+msgid "OSS AccessKey"
+msgstr "OSS AccessKey"
+
+#: image-auto-sync-oss.php:147
+msgid "OSS SecretKey"
+msgstr "OSS SecretKey"
+
+#: image-auto-sync-oss.php:160
+msgid "OSS Bucket"
+msgstr "OSS Bucket"
+
+#: image-auto-sync-oss.php:173
+msgid "OSS Endpoint"
+msgstr "OSS Endpoint"
+
+#: image-auto-sync-oss.php:186
+msgid "OSS Domain"
+msgstr "域名"
+
+#: image-auto-sync-oss.php:199
+msgid "OSS SubPath"
+msgstr "子目录"
+
+#: image-auto-sync-oss.php:215
+msgid "Delete Local Image"
+msgstr "删除本地图片文件"
+
+#: image-auto-sync-oss.php:228
+msgid "Open Debug"
+msgstr "开启 Debug"
+
+#: image-auto-sync-oss.php:241
+msgid "Sync All History Posts"
+msgstr "同步所有历史文章"
+
+#: image-auto-sync-oss.php:275
+msgid "Save Settings"
+msgstr "保存配置"
+
+#: image-auto-sync-oss.php:294
+msgid "Get OSS account (Object Storage Service) before use it."
+msgstr "使用前需要获取OSS账户（对象存储服务）"
+
+#: image-auto-sync-oss.php:294
+msgid "Get OSS Now"
+msgstr "获取 OSS 账号"
+
+#: image-auto-sync-oss.php:388
+msgid "Open debug when you need."
+msgstr "调试的时候打开."
+
+#: image-auto-sync-oss.php:404
+msgid "Get Pro Version"
+msgstr "获取专业版"
+
+msgid "https://beltxman.com"
+msgstr "https://beltxman.com"
+
+msgid "行星带"
+msgstr "行星带"
+
+msgid ""
+"将文章内非OSS图片自动上传到OSS并替换文章内图片地址，清理本地媒体库(可选)；"
+"Pro 版支持一键同步所有历史文章内的图片。"
+msgstr ""
+"将文章内非OSS图片自动上传到OSS并替换文章内图片地址，清理本地媒体库(可选)；"
+"Pro 版支持一键同步所有历史文章内的图片。"
+
+msgid "https://beltxman.com/tag/image-auto-sync-oss"
+msgstr "https://beltxman.com/tag/image-auto-sync-oss"
+
+msgid "Image Auto Sync To OSS"
+msgstr "OSS图片自动同步"
+
+#~ msgid "syncing"
+#~ msgstr "同步中"
+
+#~ msgid "finished"
+#~ msgstr "已完成"
+
+#~ msgid "Sync Now"
+#~ msgstr "马上同步"
+
+#~ msgid "Get it Here."
+#~ msgstr "获取账号。"

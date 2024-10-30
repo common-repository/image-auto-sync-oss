@@ -1,0 +1,115 @@
+# image auto sync oss
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: image-auto-sync-oss 1.0.1\n"
+"POT-Creation-Date: 2022-01-13 11:37+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"PO-Revision-Date: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core.php:64
+msgid "Some important values shouldn't be empty"
+msgstr ""
+
+#: core.php:78
+msgid "oss options error: "
+msgstr ""
+
+#: image-auto-sync-oss.php:83
+msgid "Setting"
+msgstr ""
+
+#: image-auto-sync-oss.php:94
+msgid "OSS Image Sync Options"
+msgstr ""
+
+#: image-auto-sync-oss.php:95
+msgid "OSS Image Sync"
+msgstr ""
+
+#: image-auto-sync-oss.php:121
+msgid "Open Image Auto Sync"
+msgstr ""
+
+#: image-auto-sync-oss.php:134
+msgid "OSS AccessKey"
+msgstr ""
+
+#: image-auto-sync-oss.php:147
+msgid "OSS SecretKey"
+msgstr ""
+
+#: image-auto-sync-oss.php:160
+msgid "OSS Bucket"
+msgstr ""
+
+#: image-auto-sync-oss.php:173
+msgid "OSS Endpoint"
+msgstr ""
+
+#: image-auto-sync-oss.php:186
+msgid "OSS Domain"
+msgstr ""
+
+#: image-auto-sync-oss.php:199
+msgid "OSS SubPath"
+msgstr ""
+
+#: image-auto-sync-oss.php:215
+msgid "Delete Local Image"
+msgstr ""
+
+#: image-auto-sync-oss.php:228
+msgid "Open Debug"
+msgstr ""
+
+#: image-auto-sync-oss.php:241
+msgid "Sync All History Posts"
+msgstr ""
+
+#: image-auto-sync-oss.php:275
+msgid "Save Settings"
+msgstr ""
+
+#: image-auto-sync-oss.php:294
+msgid "Get OSS account (Object Storage Service) before use it."
+msgstr ""
+
+#: image-auto-sync-oss.php:294
+msgid "Get OSS Now"
+msgstr ""
+
+#: image-auto-sync-oss.php:388
+msgid "Open debug when you need."
+msgstr ""
+
+#: image-auto-sync-oss.php:404
+msgid "Get Pro Version"
+msgstr ""
+
+msgid "https://beltxman.com"
+msgstr ""
+
+msgid "行星带"
+msgstr ""
+
+msgid "将文章内非OSS图片自动上传到OSS并替换文章内图片地址，清理本地媒体库(可选)；Pro 版支持一键同步所有历史文章内的图片。"
+msgstr ""
+
+msgid "https://beltxman.com/tag/image-auto-sync-oss"
+msgstr ""
+
+msgid "Image Auto Sync To OSS"
+msgstr ""
